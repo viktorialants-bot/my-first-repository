@@ -56,7 +56,7 @@ grow into a full-time professional role.
 ## 📫 Contact
 - 📧 viktoria@example.com  
 - 🌍 
-- 💻 [GitHub](https://github.com/yourusername)  
+- 💻 [GitHub](https://github.com/viktorialants-bot)  
 
 ---
 ⭐ *Open for internships or junior roles in Kraków / Remote.*
