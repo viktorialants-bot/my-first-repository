@@ -58,4 +58,12 @@ grow into a full-time professional role.
 - 💻 [GitHub](https://github.com/viktorialants-bot)  
 
 ---
+## 👩‍💼Languages 
+- Polish (B2+ speak fluently)
+- English (С1)
+- Ukrainian (native)
+---
+## 🙈The things that makes me happy
+- I'm big fan of singing,dancing,plaing football,workout and cooking delicious food.
+
 ⭐ *Open for internships or junior roles in Kraków. *
