@@ -35,11 +35,10 @@ grow into a full-time professional role.
 - Linux (Debian/Ubuntu) — user management, file permissions, backup scripts
 - Bash scripting for automation (e.g. scheduled backups with `cron`)
 - Git & GitHub for project management
-- Granting access rights in digital and written form, DHCP configuration, servers, and network recovery in case of failures
-(I recently had this situation when the network was dead and i've tried to tackle it via different methods)
+- Granting access rights in digital and written form, DHCP configuration, servers, and network recovery in case of failures.
 
 ### Tools
-- Cisco Packet Tracer, GNS3, Wireshark
+- Cisco Packet Tracer,Wireshark
 - VirtualBox,VMware
 - Linux CLI, Windows Server basics
 
@@ -52,15 +51,11 @@ grow into a full-time professional role.
 ---
 
 ## 🚀 Projects
-- [CCNA Labs](./labs) — Configurations for VLANs, OSPF, EtherChannel, DHCP, ACLs  
-- [Linux Scripts](./linux-scripts) — Bash automation (backup, user management)  
-- [Network Diagrams](./diagrams) — My Packet Tracer & GNS3 projects  
-
----
+- [CCNA Labs](./labs) — Configurations for VLANs, OSPF, EtherChannel, DHCP, ACLs 
 
 ## 📫 Contact
 - 📧 viktoria@example.com  
-- 🌍 [LinkedIn](https://www.linkedin.com/)  
+- 🌍 
 - 💻 [GitHub](https://github.com/yourusername)  
 
 ---
