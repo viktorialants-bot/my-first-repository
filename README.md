@@ -1,10 +1,9 @@
 # Viktoria Lants — IT & Network Specialist
 
 ## 🌐 About Me
-I am an aspiring **System & Network Administrator** with hands-on experience in  
-network configuration, troubleshooting, and security. Currently preparing for the  
-**Cisco CCNP ENCOR 350-401 / CCNP-level labs (201-300 series)** to strengthen my  
-skills in enterprise networking and cybersecurity.
+I am an ambitious systems and network administrator with practical experience in
+network configuration, troubleshooting, and security. I am currently completing a final training course in theoretical and practical  work at Cisco CCNP-level (series 201-300) to improve my
+skills in the field of corporate networks and cybersecurity.
 
 I enjoy working on practical labs in Cisco Packet Tracer and GNS3, building  
 networks from scratch, and documenting solutions. My goal is to join a  
