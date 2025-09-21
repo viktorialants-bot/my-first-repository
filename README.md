@@ -51,12 +51,12 @@ grow into a full-time professional role.
 ---
 
 ## 🚀 Projects
-- [CCNA Labs](./labs) — Configurations for VLANs, OSPF, EtherChannel, DHCP, ACLs 
+- [CCNA hand-on labs] — Configurations for VLANs, OSPF, EtherChannel, DHCP, ACLs 
 
 ## 📫 Contact
-- 📧 viktoria@example.com  
-- 🌍 
+- 📧 viktorialants@gmail.com  
+- 🌍 [Facebook] (https://www.facebook.com/share/1GkUnvuKBo/?mibextid=wwXIfr)
 - 💻 [GitHub](https://github.com/viktorialants-bot)  
 
 ---
-⭐ *Open for internships or junior roles in Kraków / Remote.*
+⭐ *Open for internships or junior roles in Kraków. *
